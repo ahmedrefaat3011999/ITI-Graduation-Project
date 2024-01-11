@@ -1,0 +1,73 @@
+﻿@model IEnumerable<Final_Project.ViewModel.PatientAppointmentsVM>
+
+@{
+    ViewData["Title"] = "PatientAppointment";
+}
+
+
+<h1>PatientAppointment</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.UserName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Age)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Gender)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ImageName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DateReserved)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TimeReserved)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.UserName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Age)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Gender)
+            </td>
+            <td>
+                <img src="../Images/@item.ImageName" width="100" height="100">
+@*                 @Html.DisplayFor(modelItem => item.ImageName)
+ *@            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateReserved)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TimeReserved)
+            </td>
+            <td>
+                    @Html.ActionLink("Edit", "EditAppointment", new {  id=item.Id }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                    @Html.ActionLink("Delete", "DeleteAppointment", new { id=item.Id })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

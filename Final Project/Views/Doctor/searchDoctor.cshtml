@@ -1,0 +1,87 @@
+﻿@model IEnumerable<UserRegisterVM>
+@{
+    ViewData["Title"] = "searchDoctor";
+    SelectList selectsDoctors = new SelectList(ViewBag.AllDoctors, "UserName", "UserName");
+    SelectList selectsClinics = new SelectList(ViewBag.AllClinics, "City", "City");
+    SelectList selectsSpecialLists = new SelectList(ViewBag.AllSpecialist, "SpecialName", "SpecialName");
+
+
+}
+
+<h1>Search About your Doctor prefer</h1>
+
+<div class="container mt-5">
+    <h1 class="mb-4">Find a Doctor</h1>
+    <form asp-action="searchDoctor" method="post">
+        <div class="input-group mb-3">
+            <label for="selectedDoctor">Select a Doctor:</label>
+            <div class="form-group">
+                <input name="doctorName" list="Doctorssearch"class="form-control" />
+                <datalist id="Doctorssearch">
+                    @foreach (var item in selectsDoctors)
+                    {
+                        <option value="@item.Text">@item.Text</option>
+                    }
+                </datalist>
+            </div>
+
+            <label for="selectedCity">Select a City:</label>
+            <div class="form-group">
+                <input name="region" list="Cityssearch" class="form-control" />
+                <datalist id="Cityssearch">
+                    @foreach (var item in selectsClinics)
+                    {
+                        <option value="@item.Text">@item.Text</option>
+                    }
+                </datalist>
+            </div>
+            <label for="selectedSepcialist">Select a Sepcialist:</label>
+            <div class="form-group">
+                <input name="specialName" list="Sepcialistssearch" class="form-control" />
+                <datalist id="Sepcialistssearch">
+                    @foreach (var item in selectsSpecialLists)
+                    {
+                        <option value="@item.Text">@item.Text</option>
+                    }
+                </datalist>
+            </div>
+            <button class="btn btn-primary" type="submit" id="button-search">Search</button>
+        </div>
+    </form>
+</div>
+
+
+<div class="container-xxl py-5">
+    <div class="container">
+        <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
+            <p class="d-inline-block border rounded-pill py-1 px-4">Doctors</p>
+            <h1>Our Experience Doctors</h1>
+        </div>
+
+        <div class="row g-4">
+            @foreach (var item in Model)
+            {
+                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="team-item position-relative rounded overflow-hidden">
+                        <div class="overflow-hidden">
+                            <a asp-action="Detailes" asp-controller="Doctor" asp-route-id="@item.Id">
+                                <img class="img-fluid" src="~/Images/@item.ImageName" alt="">
+                            </a>
+                        </div>
+                        <div class="team-text bg-light text-center p-4">
+                            <h5>@item.UserName</h5>
+
+                            <select asp-items="new SelectList(@item.SpecialistDoctors)"></select>
+                            <div class="team-social text-center">
+                                <a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a>
+                                <a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a>
+                                <a class="btn btn-square" href=""><i class="fab fa-instagram"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+

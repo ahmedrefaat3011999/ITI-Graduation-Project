@@ -1,0 +1,219 @@
+﻿@using Final_Project.Models.DataContext;
+@model ApplicationUser
+@inject AppointmentVm newAppoint
+
+@{
+    ViewData["Title"] = "Detailes";
+  
+    // Appointment newAppoint = new Appointment();
+}
+<style>
+    .showAppointment {
+        display: none;
+    }
+</style>
+
+<link href="~/assets/img/favicon.png" rel="icon">
+<link href="~/assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+<!-- Google Fonts -->
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+
+
+
+
+
+
+<section id="doctors" class="doctors">
+    <div class="container">
+
+        <div class="row">
+
+            <h1>Detailes</h1>
+            <div class="col-sm-12 mt-4 mt-lg-0">
+                <div class="member d-flex align-items-start">
+                    <div class="pic">
+                        <img src="~/Images/@Model.ImageName" class="img-fluid" width="300" height="400" alt="">
+                    </div>
+                    <div class="member-info">
+                        <h4>@Model.UserName</h4>
+                        <h3>@Model.Email</h3>
+                        <h3>@ViewBag.specialDoctor</h3>
+
+                        <h3>@Model.Country @Model.City ,@Model.Region</h3>
+                        <span>@Model.PhoneNumber</span>
+                        <p>Aut maiores voluptates amet et quis praesentium qui senda para</p>
+                        <div class="social">
+                            <a href=""><i class="ri-twitter-fill"></i></a>
+                            <a href=""><i class="ri-facebook-fill"></i></a>
+                            <a href=""><i class="ri-instagram-fill"></i></a>
+                            <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
+                            @* <a asp-action="AddAppoint" asp-controller="Appointment" asp-route-id="@Model.Id"> <i class="ri-linkedin-box-fill"></i>Appointment </a> *@
+                            <a id="MakeAppoint" class=" btn btn-primary ">Appointment </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Appointment Start -->
+<div class="showAppointment">
+    <form asp-action="AddAppoint" asp-controller="Appointment">
+        <div class="container-xxl py-5 ">
+            <div class="container">
+                <div class="row g-5">
+                    <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
+                        <p class="d-inline-block border rounded-pill py-1 px-4">Appointment</p>
+                        <h1 class="mb-4">Make An Appointment To Visit Our Doctor</h1>
+                        <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</p>
+                        <div class="bg-light rounded d-flex align-items-center p-5 mb-4">
+                            <div class="d-flex flex-shrink-0 align-items-center justify-content-center rounded-circle bg-white" style="width: 55px; height: 55px;">
+                                <i class="fa fa-phone-alt text-primary"></i>
+                            </div>
+                            <div class="ms-4">
+                                <p class="mb-2">Call Us Now</p>
+
+                                <h5 class="mb-0">@ViewBag.DoctorPhones</h5>
+
+
+                            </div>
+                        </div>
+                        <div class="bg-light rounded d-flex align-items-center p-5">
+                            <div class="d-flex flex-shrink-0 align-items-center justify-content-center rounded-circle bg-white" style="width: 55px; height: 55px;">
+                                <i class="fa fa-envelope-open text-primary"></i>
+                            </div>
+                            <div class="ms-4">
+                                <p class="mb-2">Mail Us Now</p>
+                                <h5 class="mb-0">@Model.Email</h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
+                        <div class="bg-light rounded h-100 d-flex align-items-center p-5">
+                            <input asp-for="Id" hidden class="form-control border-0" style="height: 55px;">
+                            @*   <form> *@
+                            <div class="row g-3">
+                                @*  <div class="col-12 col-sm-6">
+                                </div> *@
+                                <div class="col-12 col-sm-6">
+                                    <input asp-for="@newAppoint.PatientName" class="form-control border-0" placeholder="Your Name" style="height: 55px;">
+                                </div>
+
+                                <div class="col-12 col-sm-6">
+                                    <input asp-for="@newAppoint.Email" id="inputEmail" class="form-control border-0" required placeholder="Your Email" style="height: 55px;">
+                                    <span id="emailValidationMessage" style="color: red;"></span>
+                                </div>
+
+
+                            @*     <div class="col-12 col-sm-6">
+                                    <input asp-for=@newAppoint.Email class="form-control border-0" required placeholder="Your Email" style="height: 55px;">
+                                </div> *@
+                                <div class="col-12 col-sm-6">
+                                    <input asp-for=@newAppoint.PhoneNumber class="form-control border-0" placeholder="Your Mobile" style="height: 55px;">
+                                </div>@*
+                                <div class="col-12 col-sm-6">
+                                <select class="form-select border-0" style="height: 55px;">
+                                <option selected>Choose Doctor</option>
+                                <option value="1">Doctor 1</option>
+                                <option value="2">Doctor 2</option>
+                                <option value="3">Doctor 3</option>
+                                </select>
+                                </div> *@
+                                <div class="col-12 col-sm-6">
+                                    <div class="date" id="date" data-target-input="nearest">
+                                        <input name="newAppoint.DateReserved"
+                                               class="form-control border-0 datetimepicker-input"
+                                               placeholder="Choose Date" data-target="#date"
+                                               min="@DateTime.Now.ToString("yyyy-MM-dd")"
+                                               data-toggle="datetimepicker"
+                                               style="height: 55px;">
+                                    </div>
+                                </div>
+                                <div class="col-12 col-sm-6">
+                                    <div class="time" id="time" data-target-input="nearest">
+                                        <input name="newAppoint.TimeReserved"
+                                               class="form-control border-0 datetimepicker-input"
+                                               placeholder="Choose Date" data-target="#time" data-toggle="datetimepicker" style="height: 55px;">
+
+                                        <script>
+                                            // JavaScript code to set the minimum time to the current time
+                                            var currentTime = new Date();
+                                            var formattedCurrentTime = currentTime.toISOString().slice(0, 16); // Format as "yyyy-MM-ddTHH:mm"
+
+                                            document.getElementById("timeInput").min = formattedCurrentTime;
+                                        </script>
+                                           
+                                           
+                                           </div>
+                                </div>
+                                <div class="col-12">
+                                    <textarea asp-for="@newAppoint.Description" class="form-control border-0" rows="5" placeholder="Describe your problem"></textarea>
+                                </div>
+                                <div class="col-12">
+                                    <button class="btn btn-primary w-100 py-3" type="submit">Book Appointment</button>
+                                </div>
+                            </div>
+                            @* </form> *@
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </form>
+
+</div>
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/jquery/dist/jquery.js"></script>
+<script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+<script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+
+@* <script src="~/js/showdoctorproperty.js"></script> *@
+
+@* <script src="~/assets/vendor/purecounter/purecounter_vanilla.js"></script>
+<script src="~/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="~/assets/vendor/glightbox/js/glightbox.min.js"></script>
+<script src="~/assets/vendor/swiper/swiper-bundle.min.js"></script>
+<script src="~/assets/vendor/php-email-form/validate.js"></script> *@
+
+
+<script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+<script>
+
+    $(document).ready(function () {
+        $('#inputEmail').on('blur', function () {
+            debugger
+            var email = $(this).val();
+
+            // Make an AJAX call to check if the email exists
+            $.ajax({
+                url: '/Appointment/IsEmailAvailable?Email=' + email,
+                type: 'GET',
+                success: function (result) {
+                    if (result) {
+                        // Email is available
+                        $('#emailValidationMessage').text('');
+                    } else {
+                        // Email already exists
+                        $('#emailValidationMessage').text('Email not valid.');
+                    }
+                },
+                error: function () {
+                    console.log('Error checking email availability.');
+                }
+            });
+        });
+    });
+</script>
+
+
+
+<!-- Template Main JS File -->
+<script src="~/assets/js/main.js"></script>
+<script src="~/js/showdoctorproperty.js"></script>
+
+
+

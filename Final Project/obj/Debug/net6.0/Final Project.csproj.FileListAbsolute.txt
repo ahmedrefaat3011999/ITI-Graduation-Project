@@ -1,0 +1,1376 @@
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\appsettings.Development.json
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\appsettings.json
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Final Project.staticwebassets.runtime.json
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Final Project.exe
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Final Project.deps.json
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Final Project.runtimeconfig.json
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Final Project.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Final Project.pdb
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\Final Project.csproj.AssemblyReference.cache
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\Final Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\Final Project.AssemblyInfoInputs.cache
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\Final Project.AssemblyInfo.cs
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\Final Project.csproj.CoreCompileInputs.cache
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\Final Project.MvcApplicationPartsAssemblyInfo.cache
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\Final Project.RazorAssemblyInfo.cache
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\Final Project.RazorAssemblyInfo.cs
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\staticwebassets\msbuild.Final Project.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\staticwebassets\msbuild.build.Final Project.props
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Final Project.props
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Final Project.props
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\staticwebassets.build.json
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\staticwebassets.development.json
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\scopedcss\bundle\Final Project.styles.css
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\scopedcss\projectbundle\Final Project.bundle.scp.css
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\Final Project.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\refint\Final Project.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\Final Project.pdb
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\Final Project.genruntimeconfig.cache
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\ref\Final Project.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Azure.Core.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Azure.Identity.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Humanizer.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\System.CodeDom.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\System.Text.Json.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\Final Project.csproj.CopyComplete
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\MessagePack.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Build.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\NuGet.Common.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\Final_Project.Properties.Resources.resources
+D:\Iti Grduate Project\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\Final Project.csproj.GenerateResource.cache
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\appsettings.Development.json
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\appsettings.json
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Final Project.staticwebassets.runtime.json
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Final Project.exe
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Final Project.deps.json
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Final Project.runtimeconfig.json
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Final Project.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Final Project.pdb
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Azure.Core.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Azure.Identity.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Humanizer.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\MessagePack.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Build.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\NuGet.Common.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\System.CodeDom.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\System.Memory.Data.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\System.Text.Json.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\Final Project.csproj.AssemblyReference.cache
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\Final_Project.Properties.Resources.resources
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\Final Project.csproj.GenerateResource.cache
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\Final Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\Final Project.AssemblyInfoInputs.cache
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\Final Project.AssemblyInfo.cs
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\Final Project.csproj.CoreCompileInputs.cache
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\Final Project.MvcApplicationPartsAssemblyInfo.cache
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\Final Project.RazorAssemblyInfo.cache
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\Final Project.RazorAssemblyInfo.cs
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\staticwebassets\msbuild.Final Project.Microsoft.AspNetCore.StaticWebAssets.props
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\staticwebassets\msbuild.build.Final Project.props
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Final Project.props
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Final Project.props
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\staticwebassets.pack.json
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\staticwebassets.build.json
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\staticwebassets.development.json
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\scopedcss\bundle\Final Project.styles.css
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\scopedcss\projectbundle\Final Project.bundle.scp.css
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\Final Project.csproj.CopyComplete
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\Final Project.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\refint\Final Project.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\Final Project.pdb
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\Final Project.genruntimeconfig.cache
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\ref\Final Project.dll
+D:\VisualApps\New folder\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\scopedcss\Views\Shared\_MyLayout.cshtml.rz.scp.css
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\appsettings.Development.json
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\appsettings.json
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Final Project.staticwebassets.runtime.json
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Final Project.exe
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Final Project.deps.json
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Final Project.runtimeconfig.json
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Final Project.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Final Project.pdb
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Azure.Core.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Azure.Identity.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Humanizer.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\MessagePack.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Build.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\NuGet.Common.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\System.CodeDom.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\System.Memory.Data.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\System.Text.Json.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\Final Project.csproj.AssemblyReference.cache
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\Final_Project.Properties.Resources.resources
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\Final Project.csproj.GenerateResource.cache
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\Final Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\Final Project.AssemblyInfoInputs.cache
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\Final Project.AssemblyInfo.cs
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\Final Project.csproj.CoreCompileInputs.cache
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\Final Project.MvcApplicationPartsAssemblyInfo.cache
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\Final Project.RazorAssemblyInfo.cache
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\Final Project.RazorAssemblyInfo.cs
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\staticwebassets\msbuild.Final Project.Microsoft.AspNetCore.StaticWebAssets.props
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\staticwebassets\msbuild.build.Final Project.props
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Final Project.props
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Final Project.props
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\staticwebassets.pack.json
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\staticwebassets.build.json
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\staticwebassets.development.json
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\scopedcss\Views\Shared\_MyLayout.cshtml.rz.scp.css
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\scopedcss\bundle\Final Project.styles.css
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\scopedcss\projectbundle\Final Project.bundle.scp.css
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\Final Project.csproj.CopyComplete
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\Final Project.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\refint\Final Project.dll
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\Final Project.pdb
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\Final Project.genruntimeconfig.cache
+D:\VisualApps\clinic\ITI-Final-Project\Final Project Solution\Final Project\obj\Debug\net6.0\ref\Final Project.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\appsettings.Development.json
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\appsettings.json
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\Final Project.staticwebassets.runtime.json
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\Final Project.exe
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\Final Project.deps.json
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\Final Project.runtimeconfig.json
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\Final Project.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\Final Project.pdb
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\Azure.Core.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\Azure.Identity.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\Humanizer.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\MessagePack.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Build.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\NuGet.Common.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\System.CodeDom.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\System.Memory.Data.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\System.Text.Json.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\obj\Debug\net6.0\Final Project.csproj.AssemblyReference.cache
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\obj\Debug\net6.0\Final_Project.Properties.Resources.resources
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\obj\Debug\net6.0\Final Project.csproj.GenerateResource.cache
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\obj\Debug\net6.0\Final Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\obj\Debug\net6.0\Final Project.AssemblyInfoInputs.cache
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\obj\Debug\net6.0\Final Project.AssemblyInfo.cs
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\obj\Debug\net6.0\Final Project.csproj.CoreCompileInputs.cache
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\obj\Debug\net6.0\Final Project.MvcApplicationPartsAssemblyInfo.cache
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\obj\Debug\net6.0\Final Project.RazorAssemblyInfo.cache
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\obj\Debug\net6.0\Final Project.RazorAssemblyInfo.cs
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\obj\Debug\net6.0\staticwebassets\msbuild.Final Project.Microsoft.AspNetCore.StaticWebAssets.props
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\obj\Debug\net6.0\staticwebassets\msbuild.build.Final Project.props
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Final Project.props
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Final Project.props
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\obj\Debug\net6.0\staticwebassets.pack.json
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\obj\Debug\net6.0\staticwebassets.build.json
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\obj\Debug\net6.0\staticwebassets.development.json
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\obj\Debug\net6.0\scopedcss\Views\Shared\_MyLayout.cshtml.rz.scp.css
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\obj\Debug\net6.0\scopedcss\bundle\Final Project.styles.css
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\obj\Debug\net6.0\scopedcss\projectbundle\Final Project.bundle.scp.css
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\obj\Debug\net6.0\Final Project.csproj.CopyComplete
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\obj\Debug\net6.0\Final Project.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\obj\Debug\net6.0\refint\Final Project.dll
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\obj\Debug\net6.0\Final Project.pdb
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\obj\Debug\net6.0\Final Project.genruntimeconfig.cache
+D:\VisualApps\Iti\ItiGraduationProject\Final Project Solution\Final Project\obj\Debug\net6.0\ref\Final Project.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\appsettings.Development.json
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\appsettings.json
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\Final Project.staticwebassets.runtime.json
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\Final Project.exe
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\Final Project.deps.json
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\Final Project.runtimeconfig.json
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\Final Project.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\Final Project.pdb
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\Azure.Core.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\Azure.Identity.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\Castle.Core.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\Humanizer.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\MessagePack.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Build.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\NuGet.Common.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\System.CodeDom.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\System.Memory.Data.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\System.Text.Json.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\obj\Debug\net6.0\Final Project.csproj.AssemblyReference.cache
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\obj\Debug\net6.0\Final_Project.Properties.Resources.resources
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\obj\Debug\net6.0\Final Project.csproj.GenerateResource.cache
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\obj\Debug\net6.0\Final Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\obj\Debug\net6.0\Final Project.AssemblyInfoInputs.cache
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\obj\Debug\net6.0\Final Project.AssemblyInfo.cs
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\obj\Debug\net6.0\Final Project.csproj.CoreCompileInputs.cache
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\obj\Debug\net6.0\Final Project.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\obj\Debug\net6.0\Final Project.RazorAssemblyInfo.cache
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\obj\Debug\net6.0\Final Project.RazorAssemblyInfo.cs
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\obj\Debug\net6.0\staticwebassets.build.json
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\obj\Debug\net6.0\staticwebassets.development.json
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\obj\Debug\net6.0\staticwebassets\msbuild.Final Project.Microsoft.AspNetCore.StaticWebAssets.props
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\obj\Debug\net6.0\staticwebassets\msbuild.build.Final Project.props
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Final Project.props
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Final Project.props
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\obj\Debug\net6.0\staticwebassets.pack.json
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\obj\Debug\net6.0\scopedcss\Views\Shared\_MyLayout.cshtml.rz.scp.css
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\obj\Debug\net6.0\scopedcss\bundle\Final Project.styles.css
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\obj\Debug\net6.0\scopedcss\projectbundle\Final Project.bundle.scp.css
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\obj\Debug\net6.0\Final Project.csproj.CopyComplete
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\obj\Debug\net6.0\Final Project.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\obj\Debug\net6.0\refint\Final Project.dll
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\obj\Debug\net6.0\Final Project.pdb
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\obj\Debug\net6.0\Final Project.genruntimeconfig.cache
+D:\New folder\ItiGraduationProject-main\Final Project Solution\Final Project\obj\Debug\net6.0\ref\Final Project.dll
